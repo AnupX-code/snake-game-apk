@@ -1,8 +1,5 @@
 # Source Code
 
-<details>
-  <summary>Click to expand the full Flutter Snake Game code 🚀</summary>
-
 ```dart
 import 'dart:math';
 import 'package:flutter/material.dart';
